@@ -1,0 +1,6 @@
+Loan_ID,Applicant_Name,Loan_Amount,Interest_Rate,Loan_Term,Monthly_Income,Credit_Score
+L001,John Doe,250000,5.5,360,5000,720
+L002,Jane Smith,150000,4.8,180,4500,680
+L003,Bob Johnson,300000,6.0,240,6000,690
+L004,Alice Brown,100000,5.0,120,4000,710
+L005,Mark Davis,200000,5.2,360,5200,700
