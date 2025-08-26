@@ -1,0 +1,6 @@
+Car_ID,Make,Model,Year,Price,Engine_Size,Fuel_Type
+C001,Toyota,Corolla,2020,20000,1.8,Petrol
+C002,Ford,Mustang,2019,30000,5.0,Petrol
+C003,Honda,Civic,2021,22000,2.0,Petrol
+C004,Tesla,Model 3,2022,40000,Electric,Electric
+C005,Chevrolet,Malibu,2018,18000,2.5,Diesel
